@@ -46,7 +46,7 @@ the user’s name, email, and profile picture, with options to edit profile deta
 Edit Profile screen enables updating full name, email, and password with password visibility toggle
 and a save action.
 
-<img src="assets/screenshots/profile.png" height="600" />
+<img src="assets/screenshots/profile.png" height="400" />
 
 ## Technology Stack & Tools Used
 
