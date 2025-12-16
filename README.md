@@ -20,7 +20,7 @@ Screens for Login, Registration, and Password Reset. They feature clean UI, inte
 password visibility toggles, loading indicators, and smooth navigation between
 authentication-related screens.
 
-<img src="assets/screenshots/auth.png" height="600" />
+<img src="assets/screenshots/auth.png" height="500" />
 
 ### Home & Shop Screens
 
@@ -28,7 +28,7 @@ These screens allow users to view all categories, see featured products, and bro
 category. They include a search field, horizontal scroll for categories, and a grid layout for
 products. Users can tap on any product to navigate to the Product Detail Screen.
 
-<img src="assets/screenshots/home_shop_category.png" height="600" />
+<img src="assets/screenshots/home_shop_category.png" height="500" />
 
 ### Order & Checkout Screens
 
